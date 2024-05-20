@@ -1,0 +1,1062 @@
+[
+    {
+        "code": "ace_Arab",
+        "identifier": "achi1257",
+        "name": "Acehnese (Arabic script)"
+    },
+    {
+        "code": "ace_Latn",
+        "identifier": "achi1257",
+        "name": "Acehnese (Latin script)"
+    },
+    {
+        "code": "acm_Arab",
+        "identifier": "meso1252",
+        "name": "Mesopotamian Arabic"
+    },
+    {
+        "code": "acq_Arab",
+        "identifier": "taiz1242",
+        "name": "Ta\u02bdizzi-Adeni Arabic"
+    },
+    {
+        "code": "aeb_Arab",
+        "identifier": "tuni1259",
+        "name": "Tunisian Arabic"
+    },
+    {
+        "code": "afr_Latn",
+        "identifier": "afri1274",
+        "name": "Afrikaans"
+    },
+    {
+        "code": "als_Latn",
+        "identifier": "tosk1239",
+        "name": "Albanian (Tosk)"
+    },
+    {
+        "code": "amh_Ethi",
+        "identifier": "amha1245",
+        "name": "Amharic"
+    },
+    {
+        "code": "apc_Arab",
+        "identifier": "nort3139",
+        "name": "Levantine Arabic (North)"
+    },
+    {
+        "code": "apc_Arab",
+        "identifier": "sout3123",
+        "name": "Levantine Arabic (South)"
+    },
+    {
+        "code": "arb_Arab",
+        "identifier": "stan1318",
+        "name": "Modern Standard Arabic"
+    },
+    {
+        "code": "arb_Latn",
+        "identifier": "stan1318",
+        "name": "Modern Standard Arabic (Romanized)"
+    },
+    {
+        "code": "ars_Arab",
+        "identifier": "najd1235",
+        "name": "Najdi Arabic"
+    },
+    {
+        "code": "ary_Arab",
+        "identifier": "moro1292",
+        "name": "Moroccan Arabic"
+    },
+    {
+        "code": "arz_Arab",
+        "identifier": "egyp1253",
+        "name": "Egyptian Arabic"
+    },
+    {
+        "code": "asm_Beng",
+        "identifier": "assa1263",
+        "name": "Assamese"
+    },
+    {
+        "code": "ast_Latn",
+        "identifier": "astu1245",
+        "name": "Asturian"
+    },
+    {
+        "code": "awa_Deva",
+        "identifier": "awad1243",
+        "name": "Awadhi"
+    },
+    {
+        "code": "ayr_Latn",
+        "identifier": "cent2142",
+        "name": "Central Aymara"
+    },
+    {
+        "code": "azb_Arab",
+        "identifier": "sout2697",
+        "name": "South Azerbaijani"
+    },
+    {
+        "code": "azj_Latn",
+        "identifier": "nort2697",
+        "name": "North Azerbaijani"
+    },
+    {
+        "code": "bak_Cyrl",
+        "identifier": "bash1264",
+        "name": "Bashkir"
+    },
+    {
+        "code": "bam_Latn",
+        "identifier": "bamb1269",
+        "name": "Bambara"
+    },
+    {
+        "code": "ban_Latn",
+        "identifier": "bali1278",
+        "name": "Balinese"
+    },
+    {
+        "code": "bel_Cyrl",
+        "identifier": "bela1254",
+        "name": "Belarusian"
+    },
+    {
+        "code": "bem_Latn",
+        "identifier": "bemb1257",
+        "name": "Bemba"
+    },
+    {
+        "code": "ben_Beng",
+        "identifier": "beng1280",
+        "name": "Bengali"
+    },
+    {
+        "code": "bho_Deva",
+        "identifier": "bhoj1244",
+        "name": "Bhojpuri"
+    },
+    {
+        "code": "bjn_Arab",
+        "identifier": "banj1239",
+        "name": "Banjar (Jawi script)"
+    },
+    {
+        "code": "bjn_Latn",
+        "identifier": "banj1239",
+        "name": "Banjar (Latin script)"
+    },
+    {
+        "code": "bod_Tibt",
+        "identifier": "utsa1239",
+        "name": "Lhasa Tibetan"
+    },
+    {
+        "code": "bos_Latn",
+        "identifier": "bosn1245",
+        "name": "Bosnian"
+    },
+    {
+        "code": "brx_Deva",
+        "identifier": "bodo1269",
+        "name": "Bodo"
+    },
+    {
+        "code": "bug_Latn",
+        "identifier": "bugi1244",
+        "name": "Buginese"
+    },
+    {
+        "code": "bul_Cyrl",
+        "identifier": "bulg1262",
+        "name": "Bulgarian"
+    },
+    {
+        "code": "cat_Latn",
+        "identifier": "stan1289",
+        "name": "Catalan"
+    },
+    {
+        "code": "ceb_Latn",
+        "identifier": "cebu1242",
+        "name": "Cebuano"
+    },
+    {
+        "code": "ces_Latn",
+        "identifier": "czec1258",
+        "name": "Czech"
+    },
+    {
+        "code": "chv_Cyrl",
+        "identifier": "chuv1255",
+        "name": "Chuvash"
+    },
+    {
+        "code": "cjk_Latn",
+        "identifier": "chok1245",
+        "name": "Chokwe"
+    },
+    {
+        "code": "ckb_Arab",
+        "identifier": "cent1972",
+        "name": "Central Kurdish"
+    },
+    {
+        "code": "cmn_Hans",
+        "identifier": "beij1234",
+        "name": "Mandarin Chinese (Standard Beijing)"
+    },
+    {
+        "code": "cmn_Hant",
+        "identifier": "taib1240",
+        "name": "Mandarin Chinese (Taiwanese)"
+    },
+    {
+        "code": "crh_Latn",
+        "identifier": "crim1257",
+        "name": "Crimean Tatar"
+    },
+    {
+        "code": "cym_Latn",
+        "identifier": "wels1247",
+        "name": "Welsh"
+    },
+    {
+        "code": "dan_Latn",
+        "identifier": "dani1285",
+        "name": "Danish"
+    },
+    {
+        "code": "deu_Latn",
+        "identifier": "stan1295",
+        "name": "German"
+    },
+    {
+        "code": "dgo_Deva",
+        "identifier": "dogr1250",
+        "name": "Dogri"
+    },
+    {
+        "code": "dik_Latn",
+        "identifier": "sout2832",
+        "name": "Southwestern Dinka"
+    },
+    {
+        "code": "dyu_Latn",
+        "identifier": "dyul1238",
+        "name": "Dyula"
+    },
+    {
+        "code": "dzo_Tibt",
+        "identifier": "dzon1239",
+        "name": "Dzongkha"
+    },
+    {
+        "code": "ekk_Latn",
+        "identifier": "esto1258",
+        "name": "Estonian"
+    },
+    {
+        "code": "ell_Grek",
+        "identifier": "mode1248",
+        "name": "Greek"
+    },
+    {
+        "code": "eng_Latn",
+        "identifier": "stan1293",
+        "name": "English"
+    },
+    {
+        "code": "epo_Latn",
+        "identifier": "espe1235",
+        "name": "Esperanto"
+    },
+    {
+        "code": "eus_Latn",
+        "identifier": "basq1248",
+        "name": "Basque"
+    },
+    {
+        "code": "ewe_Latn",
+        "identifier": "ewee1241",
+        "name": "Ewe"
+    },
+    {
+        "code": "fao_Latn",
+        "identifier": "faro1244",
+        "name": "Faroese"
+    },
+    {
+        "code": "fij_Latn",
+        "identifier": "fiji1243",
+        "name": "Fijian"
+    },
+    {
+        "code": "fil_Latn",
+        "identifier": "fili1244",
+        "name": "Filipino"
+    },
+    {
+        "code": "fin_Latn",
+        "identifier": "finn1318",
+        "name": "Finnish"
+    },
+    {
+        "code": "fon_Latn",
+        "identifier": "fonn1241",
+        "name": "Fon"
+    },
+    {
+        "code": "fra_Latn",
+        "identifier": "stan1290",
+        "name": "French"
+    },
+    {
+        "code": "fur_Latn",
+        "identifier": "east2271",
+        "name": "Friulian"
+    },
+    {
+        "code": "fuv_Latn",
+        "identifier": "nige1253",
+        "name": "Nigerian Fulfulde"
+    },
+    {
+        "code": "gaz_Latn",
+        "identifier": "west2721",
+        "name": "West Central Oromo"
+    },
+    {
+        "code": "gla_Latn",
+        "identifier": "scot1245",
+        "name": "Scottish Gaelic"
+    },
+    {
+        "code": "gle_Latn",
+        "identifier": "iris1253",
+        "name": "Irish"
+    },
+    {
+        "code": "glg_Latn",
+        "identifier": "gali1258",
+        "name": "Galician"
+    },
+    {
+        "code": "gom_Deva",
+        "identifier": "goan1235",
+        "name": "Goan Konkani"
+    },
+    {
+        "code": "gug_Latn",
+        "identifier": "para1311",
+        "name": "Paraguayan Guaran\u00ed"
+    },
+    {
+        "code": "guj_Gujr",
+        "identifier": "guja1252",
+        "name": "Gujarati"
+    },
+    {
+        "code": "hat_Latn",
+        "identifier": "hait1244",
+        "name": "Haitian Creole"
+    },
+    {
+        "code": "hau_Latn",
+        "identifier": "haus1257",
+        "name": "Hausa"
+    },
+    {
+        "code": "heb_Hebr",
+        "identifier": "hebr1245",
+        "name": "Hebrew"
+    },
+    {
+        "code": "hin_Deva",
+        "identifier": "hind1269",
+        "name": "Hindi"
+    },
+    {
+        "code": "hne_Deva",
+        "identifier": "chha1249",
+        "name": "Chhattisgarhi"
+    },
+    {
+        "code": "hrv_Latn",
+        "identifier": "croa1245",
+        "name": "Croatian"
+    },
+    {
+        "code": "hun_Latn",
+        "identifier": "hung1274",
+        "name": "Hungarian"
+    },
+    {
+        "code": "hye_Armn",
+        "identifier": "nucl1235",
+        "name": "Armenian"
+    },
+    {
+        "code": "ibo_Latn",
+        "identifier": "nucl1417",
+        "name": "Igbo"
+    },
+    {
+        "code": "ilo_Latn",
+        "identifier": "ilok1237",
+        "name": "Ilocano"
+    },
+    {
+        "code": "ind_Latn",
+        "identifier": "indo1316",
+        "name": "Indonesian"
+    },
+    {
+        "code": "isl_Latn",
+        "identifier": "icel1247",
+        "name": "Icelandic"
+    },
+    {
+        "code": "ita_Latn",
+        "identifier": "ital1282",
+        "name": "Italian"
+    },
+    {
+        "code": "jav_Latn",
+        "identifier": "java1254",
+        "name": "Javanese"
+    },
+    {
+        "code": "jpn_Jpan",
+        "identifier": "nucl1643",
+        "name": "Japanese"
+    },
+    {
+        "code": "kab_Latn",
+        "identifier": "kaby1243",
+        "name": "Kabyle"
+    },
+    {
+        "code": "kac_Latn",
+        "identifier": "kach1280",
+        "name": "Jingpho"
+    },
+    {
+        "code": "kam_Latn",
+        "identifier": "kamb1297",
+        "name": "Kamba"
+    },
+    {
+        "code": "kan_Knda",
+        "identifier": "nucl1305",
+        "name": "Kannada"
+    },
+    {
+        "code": "kas_Arab",
+        "identifier": "kash1277",
+        "name": "Kashmiri (Arabic script)"
+    },
+    {
+        "code": "kas_Deva",
+        "identifier": "kash1277",
+        "name": "Kashmiri (Devanagari script)"
+    },
+    {
+        "code": "kat_Geor",
+        "identifier": "nucl1302",
+        "name": "Georgian"
+    },
+    {
+        "code": "kaz_Cyrl",
+        "identifier": "kaza1248",
+        "name": "Kazakh"
+    },
+    {
+        "code": "kbp_Latn",
+        "identifier": "kabi1261",
+        "name": "Kabiy\u00e8"
+    },
+    {
+        "code": "kea_Latn",
+        "identifier": "kabu1256",
+        "name": "Kabuverdianu"
+    },
+    {
+        "code": "khk_Cyrl",
+        "identifier": "halh1238",
+        "name": "Halh Mongolian"
+    },
+    {
+        "code": "khm_Khmr",
+        "identifier": "cent1989",
+        "name": "Khmer (Central)"
+    },
+    {
+        "code": "kik_Latn",
+        "identifier": "kiku1240",
+        "name": "Kikuyu"
+    },
+    {
+        "code": "kin_Latn",
+        "identifier": "kiny1244",
+        "name": "Kinyarwanda"
+    },
+    {
+        "code": "kir_Cyrl",
+        "identifier": "kirg1245",
+        "name": "Kyrgyz"
+    },
+    {
+        "code": "kmb_Latn",
+        "identifier": "kimb1241",
+        "name": "Kimbundu"
+    },
+    {
+        "code": "kmr_Latn",
+        "identifier": "nort2641",
+        "name": "Northern Kurdish"
+    },
+    {
+        "code": "knc_Arab",
+        "identifier": "cent2050",
+        "name": "Central Kanuri (Arabic script)"
+    },
+    {
+        "code": "knc_Latn",
+        "identifier": "cent2050",
+        "name": "Central Kanuri (Latin script)"
+    },
+    {
+        "code": "kor_Hang",
+        "identifier": "kore1280",
+        "name": "Korean"
+    },
+    {
+        "code": "ktu_Latn",
+        "identifier": "kitu1246",
+        "name": "Kituba (DRC)"
+    },
+    {
+        "code": "lao_Laoo",
+        "identifier": "laoo1244",
+        "name": "Lao"
+    },
+    {
+        "code": "lij_Latn",
+        "identifier": "geno1240",
+        "name": "Ligurian (Genoese)"
+    },
+    {
+        "code": "lim_Latn",
+        "identifier": "limb1263",
+        "name": "Limburgish"
+    },
+    {
+        "code": "lin_Latn",
+        "identifier": "ling1263",
+        "name": "Lingala"
+    },
+    {
+        "code": "lit_Latn",
+        "identifier": "lith1251",
+        "name": "Lithuanian"
+    },
+    {
+        "code": "lmo_Latn",
+        "identifier": "lomb1257",
+        "name": "Lombard"
+    },
+    {
+        "code": "ltg_Latn",
+        "identifier": "east2282",
+        "name": "Latgalian"
+    },
+    {
+        "code": "ltz_Latn",
+        "identifier": "luxe1241",
+        "name": "Luxembourgish"
+    },
+    {
+        "code": "lua_Latn",
+        "identifier": "luba1249",
+        "name": "Luba-Kasai"
+    },
+    {
+        "code": "lug_Latn",
+        "identifier": "gand1255",
+        "name": "Ganda"
+    },
+    {
+        "code": "luo_Latn",
+        "identifier": "luok1236",
+        "name": "Luo"
+    },
+    {
+        "code": "lus_Latn",
+        "identifier": "lush1249",
+        "name": "Mizo"
+    },
+    {
+        "code": "lvs_Latn",
+        "identifier": "stan1325",
+        "name": "Standard Latvian"
+    },
+    {
+        "code": "mag_Deva",
+        "identifier": "maga1260",
+        "name": "Magahi"
+    },
+    {
+        "code": "mai_Deva",
+        "identifier": "mait1250",
+        "name": "Maithili"
+    },
+    {
+        "code": "mal_Mlym",
+        "identifier": "mala1464",
+        "name": "Malayalam"
+    },
+    {
+        "code": "mar_Deva",
+        "identifier": "mara1378",
+        "name": "Marathi"
+    },
+    {
+        "code": "mhr_Cyrl",
+        "identifier": "gras1239",
+        "name": "Meadow Mari"
+    },
+    {
+        "code": "min_Arab",
+        "identifier": "mina1268",
+        "name": "Minangkabau (Jawi script)"
+    },
+    {
+        "code": "min_Latn",
+        "identifier": "mina1268",
+        "name": "Minangkabau (Latin script)"
+    },
+    {
+        "code": "mkd_Cyrl",
+        "identifier": "mace1250",
+        "name": "Macedonian"
+    },
+    {
+        "code": "mlt_Latn",
+        "identifier": "malt1254",
+        "name": "Maltese"
+    },
+    {
+        "code": "mni_Beng",
+        "identifier": "mani1292",
+        "name": "Meitei (Manipuri, Bengali script)"
+    },
+    {
+        "code": "mni_Mtei",
+        "identifier": "mani1292",
+        "name": "Meitei (Manipuri, Meitei script)"
+    },
+    {
+        "code": "mos_Latn",
+        "identifier": "moss1236",
+        "name": "Mossi"
+    },
+    {
+        "code": "mri_Latn",
+        "identifier": "maor1246",
+        "name": "Maori"
+    },
+    {
+        "code": "mya_Mymr",
+        "identifier": "nucl1310",
+        "name": "Burmese"
+    },
+    {
+        "code": "nld_Latn",
+        "identifier": "dutc1256",
+        "name": "Dutch"
+    },
+    {
+        "code": "nno_Latn",
+        "identifier": "norw1262",
+        "name": "Norwegian Nynorsk"
+    },
+    {
+        "code": "nob_Latn",
+        "identifier": "norw1259",
+        "name": "Norwegian Bokm\u00e5l"
+    },
+    {
+        "code": "npi_Deva",
+        "identifier": "nepa1254",
+        "name": "Nepali"
+    },
+    {
+        "code": "nqo_Nkoo",
+        "identifier": "nkoa1234",
+        "name": "Nko"
+    },
+    {
+        "code": "nso_Latn",
+        "identifier": "pedi1238",
+        "name": "Northern Sotho"
+    },
+    {
+        "code": "nus_Latn",
+        "identifier": "nuer1246",
+        "name": "Nuer"
+    },
+    {
+        "code": "nya_Latn",
+        "identifier": "nyan1308",
+        "name": "Nyanja"
+    },
+    {
+        "code": "oci_Latn",
+        "identifier": "occi1239",
+        "name": "Occitan"
+    },
+    {
+        "code": "ory_Orya",
+        "identifier": "oriy1255",
+        "name": "Odia"
+    },
+    {
+        "code": "pag_Latn",
+        "identifier": "pang1290",
+        "name": "Pangasinan"
+    },
+    {
+        "code": "pan_Guru",
+        "identifier": "panj1256",
+        "name": "Eastern Panjabi"
+    },
+    {
+        "code": "pap_Latn",
+        "identifier": "papi1253",
+        "name": "Papiamento"
+    },
+    {
+        "code": "pbt_Arab",
+        "identifier": "sout2649",
+        "name": "Southern Pashto"
+    },
+    {
+        "code": "pes_Arab",
+        "identifier": "west2369",
+        "name": "Western Persian"
+    },
+    {
+        "code": "plt_Latn",
+        "identifier": "plat1254",
+        "name": "Plateau Malagasy"
+    },
+    {
+        "code": "pol_Latn",
+        "identifier": "poli1260",
+        "name": "Polish"
+    },
+    {
+        "code": "por_Latn",
+        "identifier": "braz1246",
+        "name": "Portuguese (Brazilian)"
+    },
+    {
+        "code": "prs_Arab",
+        "identifier": "dari1249",
+        "name": "Dari"
+    },
+    {
+        "code": "quy_Latn",
+        "identifier": "ayac1239",
+        "name": "Ayacucho Quechua"
+    },
+    {
+        "code": "ron_Latn",
+        "identifier": "roma1327",
+        "name": "Romanian"
+    },
+    {
+        "code": "run_Latn",
+        "identifier": "rund1242",
+        "name": "Rundi"
+    },
+    {
+        "code": "rus_Cyrl",
+        "identifier": "russ1263",
+        "name": "Russian"
+    },
+    {
+        "code": "sag_Latn",
+        "identifier": "sang1328",
+        "name": "Sango"
+    },
+    {
+        "code": "san_Deva",
+        "identifier": "sans1269",
+        "name": "Sanskrit"
+    },
+    {
+        "code": "sat_Olck",
+        "identifier": "sant1410",
+        "name": "Santali"
+    },
+    {
+        "code": "scn_Latn",
+        "identifier": "sici1248",
+        "name": "Sicilian"
+    },
+    {
+        "code": "shn_Mymr",
+        "identifier": "shan1277",
+        "name": "Shan"
+    },
+    {
+        "code": "sin_Sinh",
+        "identifier": "sinh1246",
+        "name": "Sinhala"
+    },
+    {
+        "code": "slk_Latn",
+        "identifier": "slov1269",
+        "name": "Slovak"
+    },
+    {
+        "code": "slv_Latn",
+        "identifier": "slov1268",
+        "name": "Slovenian"
+    },
+    {
+        "code": "smo_Latn",
+        "identifier": "samo1305",
+        "name": "Samoan"
+    },
+    {
+        "code": "sna_Latn",
+        "identifier": "shon1251",
+        "name": "Shona"
+    },
+    {
+        "code": "snd_Arab",
+        "identifier": "sind1272",
+        "name": "Sindhi (Arabic script)"
+    },
+    {
+        "code": "snd_Deva",
+        "identifier": "sind1272",
+        "name": "Sindhi (Devanagari script)"
+    },
+    {
+        "code": "som_Latn",
+        "identifier": "soma1255",
+        "name": "Somali"
+    },
+    {
+        "code": "sot_Latn",
+        "identifier": "sout2807",
+        "name": "Southern Sotho"
+    },
+    {
+        "code": "spa_Latn",
+        "identifier": "amer1254",
+        "name": "Spanish (Latin American)"
+    },
+    {
+        "code": "srd_Latn",
+        "identifier": "sard1257",
+        "name": "Sardinian"
+    },
+    {
+        "code": "srp_Cyrl",
+        "identifier": "serb1264",
+        "name": "Serbian"
+    },
+    {
+        "code": "ssw_Latn",
+        "identifier": "swat1243",
+        "name": "Swati"
+    },
+    {
+        "code": "sun_Latn",
+        "identifier": "sund1252",
+        "name": "Sundanese"
+    },
+    {
+        "code": "swe_Latn",
+        "identifier": "swed1254",
+        "name": "Swedish"
+    },
+    {
+        "code": "swh_Latn",
+        "identifier": "swah1253",
+        "name": "Swahili"
+    },
+    {
+        "code": "szl_Latn",
+        "identifier": "sile1253",
+        "name": "Silesian"
+    },
+    {
+        "code": "tam_Taml",
+        "identifier": "tami1289",
+        "name": "Tamil"
+    },
+    {
+        "code": "taq_Latn",
+        "identifier": "tama1365",
+        "name": "Tamasheq (Latin script)"
+    },
+    {
+        "code": "taq_Tfng",
+        "identifier": "tama1365",
+        "name": "Tamasheq (Tifinagh script)"
+    },
+    {
+        "code": "tat_Cyrl",
+        "identifier": "tata1255",
+        "name": "Tatar"
+    },
+    {
+        "code": "tel_Telu",
+        "identifier": "telu1262",
+        "name": "Telugu"
+    },
+    {
+        "code": "tgk_Cyrl",
+        "identifier": "taji1245",
+        "name": "Tajik"
+    },
+    {
+        "code": "tha_Thai",
+        "identifier": "thai1261",
+        "name": "Thai"
+    },
+    {
+        "code": "tir_Ethi",
+        "identifier": "tigr1271",
+        "name": "Tigrinya"
+    },
+    {
+        "code": "tpi_Latn",
+        "identifier": "tokp1240",
+        "name": "Tok Pisin"
+    },
+    {
+        "code": "tsn_Latn",
+        "identifier": "tswa1253",
+        "name": "Tswana"
+    },
+    {
+        "code": "tso_Latn",
+        "identifier": "tson1249",
+        "name": "Tsonga"
+    },
+    {
+        "code": "tuk_Latn",
+        "identifier": "turk1304",
+        "name": "Turkmen"
+    },
+    {
+        "code": "tum_Latn",
+        "identifier": "tumb1250",
+        "name": "Tumbuka"
+    },
+    {
+        "code": "tur_Latn",
+        "identifier": "nucl1301",
+        "name": "Turkish"
+    },
+    {
+        "code": "twi_Latn",
+        "identifier": "akua1239",
+        "name": "Akuapem Twi"
+    },
+    {
+        "code": "twi_Latn",
+        "identifier": "asan1239",
+        "name": "Asante Twi"
+    },
+    {
+        "code": "uig_Arab",
+        "identifier": "uigh1240",
+        "name": "Uyghur"
+    },
+    {
+        "code": "ukr_Cyrl",
+        "identifier": "ukra1253",
+        "name": "Ukrainian"
+    },
+    {
+        "code": "umb_Latn",
+        "identifier": "umbu1257",
+        "name": "Umbundu"
+    },
+    {
+        "code": "urd_Arab",
+        "identifier": "urdu1245",
+        "name": "Urdu"
+    },
+    {
+        "code": "uzn_Latn",
+        "identifier": "nort2690",
+        "name": "Northern Uzbek"
+    },
+    {
+        "code": "vec_Latn",
+        "identifier": "vene1259",
+        "name": "Venetian"
+    },
+    {
+        "code": "vie_Latn",
+        "identifier": "viet1252",
+        "name": "Vietnamese"
+    },
+    {
+        "code": "war_Latn",
+        "identifier": "wara1300",
+        "name": "Waray"
+    },
+    {
+        "code": "wol_Latn",
+        "identifier": "nucl1347",
+        "name": "Wolof"
+    },
+    {
+        "code": "xho_Latn",
+        "identifier": "xhos1239",
+        "name": "Xhosa"
+    },
+    {
+        "code": "ydd_Hebr",
+        "identifier": "east2295",
+        "name": "Eastern Yiddish"
+    },
+    {
+        "code": "yor_Latn",
+        "identifier": "yoru1245",
+        "name": "Yoruba"
+    },
+    {
+        "code": "yue_Hant",
+        "identifier": "xian1255",
+        "name": "Yue Chinese (Hong Kong Cantonese)"
+    },
+    {
+        "code": "zgh_Tfng",
+        "identifier": "stan1324",
+        "name": "Standard Moroccan Tamazight"
+    },
+    {
+        "code": "zsm_Latn",
+        "identifier": "stan1306",
+        "name": "Standard Malay"
+    },
+    {
+        "code": "zul_Latn",
+        "identifier": "zulu1248",
+        "name": "Zulu"
+    }
+]
